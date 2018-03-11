@@ -14,7 +14,7 @@ baseurl: '/cv' #change it according to your repository name
 
 #Profile information
 name: Eko Rudiawan Jamzuri
-tagline: Robotics Engineer
+tagline: Work as if you will live forever, and pray as if you'll die tomorrow
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
